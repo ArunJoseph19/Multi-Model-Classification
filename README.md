@@ -29,3 +29,7 @@ Above that, I train a Main model which has the ability to predict with class eac
 <img src="https://github.com/ArunJoseph19/Multi-Model-Classification/blob/master/Original%20Images/1%20(7).jpg" width=200px/>
 <img src="https://github.com/ArunJoseph19/Multi-Model-Classification/blob/master/Original%20Images/1%20(8).jpg" width=200px/>
 </p>
+
+
+Full Disclosure, the model is pretty bad....given the very few images available to train.
+But overall, it works amazingly.
