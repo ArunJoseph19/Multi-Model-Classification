@@ -1,0 +1,5 @@
+This particular project has 9 CNN classifier models.
+Unfortunately, I can't upload it to Github because as you know classifier models are pretty huge and it comes upto 2gigs.
+If you want to try it out.....please visit this link:
+https://drive.google.com/drive/folders/1n06kMQCadt-DoR3A-WwGN-9fFxuXM4ll?usp=sharing
+and place the models in this folder. Then you can run it.
