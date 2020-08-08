@@ -32,4 +32,6 @@ Above that, I train a Main model which has the ability to predict with class eac
 
 
 Full Disclosure, the modela are pretty bad....given the very few images available to train.<br>
-But overall, it works amazingly.
+But overall, it works amazingly.<br><br><br>
+Example: <br>
+<img src="https://github.com/ArunJoseph19/Multi-Model-Classification/blob/master/Original%20Images/2020-08-08.png" width=100%/>
