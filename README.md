@@ -31,5 +31,5 @@ Above that, I train a Main model which has the ability to predict with class eac
 </p>
 
 
-Full Disclosure, the model is pretty bad....given the very few images available to train.
+Full Disclosure, the modela are pretty bad....given the very few images available to train.<br>
 But overall, it works amazingly.
